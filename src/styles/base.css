@@ -8,8 +8,8 @@
 
   --fg-dark: #fcfcfc;
 
-  --font1: 'Fira Sans Condensed', sans-serif;
-  --font2: 'Special Elite', cursive;
+  --font1: 'RockWell', cursive;
+  --font2: 'Garamond', cursive;
 }
 
 *,
@@ -108,7 +108,7 @@ h6 {
   font-size: 20px;
   line-height: 24px;
 
-  color: #b4290d;
+  color: #ef461a;
   padding-top: 24px;
   padding-bottom: 24px;
 }
